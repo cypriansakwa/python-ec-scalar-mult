@@ -1,0 +1,12 @@
+myenv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.swp
+*.swo
+*.egg-info/
+dist/
+build/
+.env
